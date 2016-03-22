@@ -4,8 +4,6 @@
 
 1. [Erstelle/ suche einen Issue](#find-an-issue)
 2. [Zuweisung eines Issues](#assign-an-issue)
-3. [Bearbeite einen Issue](#work-on-an-issue)
-4. [Mitarbeit an einem Feature](#contribute-a-feature)
 
 ## Fork Management
 
@@ -63,8 +61,16 @@ Nennt man auch **Triangle wrokflow**
 
 ![How to use Triangular git Workflow](./asset/contribution-workflow.png)
 
+## Find an Issue
 
+Alle Bugs oder Features Request werden in Git mithilfe von Issues organisiert.
+Eine &Uuml;bersicht aller offenen Issues (wo du dann auch selbst Issues erstellen kannst) findest du oberhalb des Repo-Fensters:
 
+![How to find Issues](./asset/contribution-issues.png)
 
+## Assign an Issue
 
+Sobald du einen Issue gefunden hast den du bearbeiten m&ouml;chtest solltest du dir diesen zuweisen, damit jeder wei&szlig; , dass du daran arbeitest. 
+
+![How to assign an Issue](./asset/contribution-assignissue.png)
 
