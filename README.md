@@ -47,7 +47,7 @@ Nachdem du &Auml;nderungen vorgenommen hast taucht rechts oben ein Button **Comp
 ![How to create a Pull Request](./asset/contribution-pullrequest.png)
 
 Wenn du diesen Klickst, siehst du nochmal all deine &Auml;nderungen und kannst nochmal einen Text dazu formulieren.
-Mit diesem Pull Request stellst du eine Anfrage an den Maintaner des originalen Repos deine &Auml;nderungen mit in das originale Repo zu &uuml;bernehmen. 
+Mit diesem Pull Request stellst du eine Anfrage an den Maintainer des originalen Repos deine &Auml;nderungen mit in das originale Repo zu &uuml;bernehmen. 
 Ist alles sauber und angemessen (bzgl. Coding Guidelines und Benennungen) implementiert wird der Maintaner den Pull Request akzeptieren oder dir gegebenenfalls Feedback dazu geben.
 
 [Github Dokumentation Pull Request](https://help.github.com/articles/using-pull-requests/)
@@ -57,7 +57,7 @@ Diesen Prozess
 * Pushen in den eigenen lokalen Fork
 * Pull Request von dem eigenen lokalen Fork in das originale Repo
 
-Nennt man auch **Triangle wrokflow**
+Nennt man auch **Triangular workflow**
 
 ![How to use Triangular git Workflow](./asset/contribution-workflow.png)
 
