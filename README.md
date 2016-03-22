@@ -16,7 +16,7 @@ Danach klickst du auf den Button **fork**
 ![Repository forken](./asset/contribution-fork.png)
 In diesem Beispiel wird das Repository **lycheeJS** geforked; Dieses wird auch in der weiteren Erkl&auml;rung als Beispiel herangezogen.
 
-Danach kannst du noch ausw&auml;hlen ob du das Repo in eine Organization oder deinen normalen Github Account forken m&oumlchtest und das war es auch schon.
+Danach kannst du noch ausw&auml;hlen ob du das Repo in eine Organization oder deinen normalen Github Account forken m&ouml;chtest und das war es auch schon.
 
 Nun kannst du diese Repo (deine eigene lokale Kopie in Github) auch wieder auf deinem Rechner auschecken:
 
